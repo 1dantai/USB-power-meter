@@ -8,3 +8,5 @@
 ![image](https://github.com/1dantai/USB-power-meter/blob/main/PCB.png)
 ![image](https://github.com/1dantai/USB-power-meter/blob/main/PCB%E5%9B%BE%E7%89%87.png)
 
+# BOM
+![image](https://github.com/1dantai/USB-power-meter/blob/main/BOM.png)
